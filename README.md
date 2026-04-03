@@ -1,2 +1,3 @@
 # NitroOS-Touch-AppStore
 NitroOS Mobile AppStore to get apps for a scratch OS called NitroOS Touch which is a fork of NitroOS made by Titanium Nitro, you can get the Mobile Version at https://zombieclown97.itch.io/osalpha-mobile and the original version at https://titanium-nitro.itch.io/osalpha. Here's some credits cause why not: Original by Titanium Nitro, or NitroXD. NitroOS Touch by me. Icons: I dont really know lol. Art: NitroXD/Titanium Nitro. Oh yeah the deployments might not work so i'll create a text file if necessary.
+Oh yeah, please do NOT load the html files, they suck.
